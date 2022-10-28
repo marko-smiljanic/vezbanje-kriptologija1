@@ -1,0 +1,2 @@
+ovde sam sifrovao json-sablon tadasnji fajl sa deksktop-a, i onda ga desifrovao i ponovo dobio taj originalni fajl (.txt)
+sifrovanje je implementirano da se brise originalni fajl posle sifrovanja i sifrovani posle desifrovanja.

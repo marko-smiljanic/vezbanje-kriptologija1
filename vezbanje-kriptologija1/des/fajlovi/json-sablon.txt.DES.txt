@@ -1,0 +1,45 @@
+[
+
+    {
+        "naziv" : "Fakultet Tehnickih Nauka",
+        "adresa": "Neka adresa, broj 3, Novi Sad",
+        "predmeti": [
+            {"naziv_predmeta": "Osnove mehanike"},
+            {"naziv_predmeta": "Matematika 1"},
+            {"naziv_predmeta": "Matematika 2"}
+        ]
+    },
+
+    {
+        "naziv" : "Poljoprivredni fakultet",
+        "adresa": "Neka adresa, broj 10, Novi Sad",
+        "predmeti": [
+            {"naziv_predmeta": "Zastita bilja 1"},
+            {"naziv_predmeta": "Statistika"},
+            {"naziv_predmeta": "Mikrobiologija"}
+        ]
+    },
+
+    {
+        "naziv" : "Pravni fakultet",
+        "adresa": "Neka adresa, broj 34, Novi Sad",
+        "predmeti": [
+            {"naziv_predmeta": "Rimsko pravo"},
+            {"naziv_predmeta": "Primena zakonskih normi"},
+            {"naziv_predmeta": "Sociologija"}
+        ]
+    },
+
+    {
+        "naziv" : "Tehnoloski fakultet",
+        "adresa": "Neka adresa, broj 4, Novi Sad", 
+        "predmeti": [
+            {"naziv_predmeta": "Biohemija"},
+            {"naziv_predmeta": "Higijena namirnica"},
+            {"naziv_predmeta": "Zarazne bolesti 1"}
+        ]
+    }
+
+    
+
+]

@@ -1,0 +1,5 @@
+Ovo je neki sadrzaj ovog fajla koji ce biti sifrovan, pa posle desifrovan.
+
+aaaaaafffffaaaaaaaaaaaafffffaaaaaaaaaaaafffffaaaaaaaaaaaafffff
+aaaaaafffffaaaaaaaaaaaafffffaaaaaaaaaaaafffffaaaaaaaaaaaafffff
+aaaaaafffffaaaaaaaaaaaafffffaaaaaaaaaaaafffffaaaaaaaaaaaafffff
